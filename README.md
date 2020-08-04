@@ -1,6 +1,6 @@
 ## Generate Captions for Images with Tensorflow Lite on Android.
 This repository contains an individual Android Studio project to help you learning how to use [Tensorflow Lite](https://www.tensorflow.org/lite/guide) for generating Captions for Images.
-![](example.gif)
+![](example gif.gif)
 ## Development Environment
 - Android Studio 4.1
 - Android SDK
