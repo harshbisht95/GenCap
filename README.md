@@ -25,6 +25,7 @@ This repository contains an individual Android Studio project to help you learni
     ```
 ### Step 3- Create Android Project.
   - Place the converted ```tflite_model.tflite``` file to folder ``` /android/app/src/main/assets ```
+  - There are 2 more assets ``` wordtoix and ixtoword ``` which are mapped JSON files(Tokens to Vocab and Vice-versa).
     - To use tflite we need to add dependency to gradle file: 
     ``` implementation 'org.tensorflow:tensorflow-lite:0.0.0-nightly' ```
     Tensorflow also provides support library for easy use of loading the model and other stuff.
