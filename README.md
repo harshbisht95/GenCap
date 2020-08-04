@@ -45,7 +45,8 @@ This repository contains an individual Android Studio project to help you learni
 #### NOTE: 
 1 Issue I faced here was that tranfer learning was not available in tflite. In my model I have use ``` Inception V3 model features ``` .
 So I converted the Inception model to tflite and placed it in the ``` /android/app/src/main/assets ``` folder. In android backend I fed the image as intput to
-Inception model and the output from it was the input for my model.
+Inception model and the output from it was the input for my model. 
+##### The output might not be very promising due to Hardware limitation in training the model. Only 1652 vocabularies are used.
 ## Creds: </br> 
 ###### All Google page links are purple :joy: . Listing those which I remember.
   - [Android Camera API](https://developer.android.com/guide/topics/media/camera)
