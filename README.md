@@ -4,7 +4,7 @@ This repository contains an individual Android Studio project to help you learni
 - Android Studio 4.1
 - Android SDK
 - Java 1.8
-- Pre built [Caption Generation](https://github.com/harshbisht95/image-captioning.git) model in Keras
+- Pre built [Caption Generation](https://github.com/harshbisht95/image-captioning.git){:target="_blank" rel="noopener"} model in Keras
   - Python 3.6
   - Keras 2.3.0
 ### Step 1- Train the caption generation model.
